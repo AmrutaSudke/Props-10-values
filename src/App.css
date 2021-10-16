@@ -1,3 +1,15 @@
+.card{
+  border: 5px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+.imgSize{
+  margin: 0 auto;
+}
+
+.card-body{
+  text-align: center;
+}
 .App {
   text-align: center;
 }
